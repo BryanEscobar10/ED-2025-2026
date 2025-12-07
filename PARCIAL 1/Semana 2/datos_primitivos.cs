@@ -5,7 +5,7 @@ namespace FigurasGeometricas
     // Clase Circulo
     class Circulo
     {
-        // Atributo privado: radio del círculo
+        // Atributo privado:  radio del círculo
         private double radio;
 
         // Constructor para inicializar el radio
